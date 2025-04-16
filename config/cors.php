@@ -15,6 +15,7 @@ return [
     |
     */
 
+
     'paths' => ['*'],
 
     'allowed_methods' => ['*'],
